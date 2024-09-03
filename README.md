@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+My name is Javontae, and I am a student majoring in Computer Science, with a conncentration at High Performance Computing at Tennessee Tech University. I will have completed my Associates of Computer Science in the winter of 2024, and my Bachelors of Computer Science will be completed during the spring of 2026. I initially started off my education with Motlow State Community College, and used the Tennessee Transfer Pathway for a seamless transfer to TTU. I have a related hobby as well, I like to run a homelab. My current homelab runs on Debian 12 on a very old Microserver Gen8, and an, equally as old, 2-bay Seagate NAS. I genuinely enjoy learning more about software development, so I am excited to grow more in this field in the future.
 <!--
 **javamartini/javamartini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
